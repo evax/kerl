@@ -1,5 +1,4 @@
 kerl
 ====
 
-Future development of kerl will happen at [Spawngrid](https://github.com/spawngrid/kerl)
-
+kerl has moved to [an organization](https://github.com/kerl/kerl)
